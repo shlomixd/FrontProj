@@ -14,3 +14,6 @@ First Frontend Project
 npm install  
 npm install --legacy-peer-deps  
 npm install --force  
+
+
+https://github.com/shlomixd/React-Shop-Online-Proj.git
