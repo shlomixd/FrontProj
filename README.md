@@ -5,6 +5,6 @@ First Frontend Project
   E-mail Address: Shlomid14030@gmail.com  
   Phone Number: 0503359889  
 
-  קורס תכנות   Net.
-  מורחב פיתוח דוטנט ערב D130222ER- אונליין  
+קורס תכנות .NET  
+מורחב פיתוח דוטנט ערב D130222ER- אונליין    
 
