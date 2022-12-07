@@ -1,4 +1,4 @@
-# FrontProj
+# React Shop-Online Proj  
 First Frontend Project
 
   Name Of Student: Shlomi Danino  
