@@ -8,3 +8,9 @@ First Frontend Project
 קורס תכנות .NET  
 מורחב פיתוח דוטנט ערב D130222ER- אונליין    
 
+אני מקווה שהצלחתי לעמוד בכל הדרישות  
+על מנת להפעיל את הפרוייקט השתמשתי ב:  
+
+npm install  
+npm install --legacy-peer-deps  
+npm --force  
