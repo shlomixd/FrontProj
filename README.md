@@ -13,4 +13,4 @@ First Frontend Project
 
 npm install  
 npm install --legacy-peer-deps  
-npm --force  
+npm install --force  
